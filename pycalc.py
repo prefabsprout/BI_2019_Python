@@ -1,8 +1,15 @@
-a = input()
+a = float(input())
 operation = input()
-b = input()
+b = float(input())
 
-string = a + operation + b
+if operation == "+":
+    print(a + b)
 
-print(eval(string))
+if operation == "-":
+    print(a - b)
 
+if operation == "*":
+    print(a * b)
+
+if operation == "/":
+    print(a / b)
