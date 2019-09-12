@@ -5,11 +5,11 @@ b = float(input())
 if operation == "+":
     print(a + b)
 
-if operation == "-":
+elif operation == "-":
     print(a - b)
 
-if operation == "*":
+elif operation == "*":
     print(a * b)
 
-if operation == "/":
+elif operation == "/":
     print(a / b)
