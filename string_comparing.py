@@ -8,4 +8,4 @@ def string_comparing(first_string, second_string):
     return answer
 
 
-print(lst_comparing(test_list[0], test_list[1]))
+print(string_comparing(test_list[0], test_list[1]))
