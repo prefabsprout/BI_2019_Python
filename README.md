@@ -16,3 +16,7 @@ Description: https://www.notion.so/Third-Homework-Objects-Functions-Scopes-Colle
 ## Homework №4:
 
 Description: https://www.notion.so/Fourth-homework-c8220c51024046ed9e4988e654bd5549
+
+## Homework №7:
+
+Description: https://www.notion.so/Seventh-Homework-ed5e990bb88d45dabd78cbdee6ca330a
