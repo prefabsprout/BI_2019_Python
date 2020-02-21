@@ -13,3 +13,6 @@ Description: https://www.notion.so/Second-Homework-PEP-8-PR-d24a149704e342db8905
 Description: https://www.notion.so/Third-Homework-Objects-Functions-Scopes-Collections-e25d074f6fe64605bf18855bca3472d9
 
 
+## Homework №4:
+
+Description: https://www.notion.so/Fourth-homework-c8220c51024046ed9e4988e654bd5549
