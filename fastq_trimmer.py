@@ -50,8 +50,8 @@ with open(in_file_path, 'r') as in_f, open(out_file_path, 'w') as out_f:
         seq = next(in_f)
         next(in_f)
         quality = next(in_f)
-        if len(seq) >= args.min_length and ((seq.count('GC') / len(seq) * 100) >= gc[0]
-                                            and (seq.count('GC') / len(seq) * 100) <= gc[1]):
+        if len(seq) >= args.min_length and (((seq.count('G') + seq.count('C')) / len(seq) * 100) >= gc[0]
+                                            and ((seq.count('G') + seq.count('C')) / len(seq) * 100) <= gc[1]):
             out_f.write(name)
             out_f.write(seq)
             out_f.write('+')
