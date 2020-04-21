@@ -20,3 +20,7 @@ Description: https://www.notion.so/Fourth-homework-c8220c51024046ed9e4988e654bd5
 ## Homework №7:
 
 Description: https://www.notion.so/Seventh-Homework-ed5e990bb88d45dabd78cbdee6ca330a
+
+## Homework №8:
+
+Description: https://www.notion.so/Eighth-homework-866fedbeb3984ba88445ba9d892f25b1
